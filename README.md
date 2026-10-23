@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that analyses customer behaviour for a clothing brand: who the customers are, what they buy, how much revenue each category brings in, and how subscription status relates to purchasing.
 
-![Customer Behaviour Dashboard](images/dashboard.png)
+![Customer Behaviour Dashboard](dashboard.png)
 
 ## Business Problem
 
